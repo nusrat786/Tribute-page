@@ -1,0 +1,57 @@
+.container{
+	width:700px;
+	
+	background: #a3c2c2;
+	margin: 30px auto;
+	border-radius: 5px;
+	padding-top: 15px;
+	text-align: center;
+}
+.container ul li{
+	text-align: left;
+}
+.container ul{
+	padding-right: 10px;
+}
+
+.para{
+	border: 1px solid #476b6b;
+	width: 670px;
+	height: 300px;
+	margin: auto;
+	border-radius: 3px;
+	text-align: left;
+	padding: 0px 5px;
+	font-family: 'Amiri', serif;
+	margin-bottom: 20px;
+}
+
+.photo{
+	
+	border: 1px solid #476b6b;
+	width: 670px;
+	height: 450px;
+	margin: auto;
+	border-radius: 3px;
+	padding-top: 10px;
+
+}
+
+img{
+	border-radius: 50%;
+}
+
+.highlight{
+	background: #3d5c5c;
+	width: 650;
+	margin: 0px 5px;
+
+}
+.highlight p{
+	margin-top: 0px;
+}
+footer{
+	padding-bottom: 20px;
+	font-style:  italic;
+	font-weight: 70;
+}
